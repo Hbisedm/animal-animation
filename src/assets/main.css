@@ -1,0 +1,11 @@
+*,
+#app {
+  margin: 0;
+  padding: 0;
+  inset: 0;
+}
+
+/* 隐藏滚动条 */
+::-webkit-scrollbar {
+  display: none;
+}
